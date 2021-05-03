@@ -6,7 +6,7 @@ I am passionate of modern web development techniques and technologies. My goal i
 
 <br>
 
-<img align="right" width="300" alt="GIF" src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif" />
+<img align="right" width="300" alt="GIF" src="https://user-images.githubusercontent.com/46906648/116898275-d798d780-ac3e-11eb-9195-0f0307b7782e.gif" />
 
 **Talking about Personal Stuffs:**
 
