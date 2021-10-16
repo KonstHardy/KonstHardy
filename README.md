@@ -11,8 +11,8 @@ I am passionate of modern web development techniques and technologies. My goal i
 **Talking about Personal Stuffs:**
 
 - 👨‍💻 I’m currently working on an endless photo gallery project and a data sorting table project
-- 🌱 I’m currently learning React framework
-- 🚀 Looking forward to take a TypeScript and Node.js Course 
+- 🌱 I’m currently learning TypeScript
+- 🚀 Looking forward to take a Node.js and PHP Course 
 - ⚡ I’m looking to collaborate on an interesting and passionate projects that aimed to help people
 - 💪 I can help you with the technologies that I have deep expertice in
 
