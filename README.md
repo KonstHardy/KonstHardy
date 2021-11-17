@@ -10,7 +10,7 @@ I am passionate of modern web development techniques and technologies. My goal i
 
 **Talking about Personal Stuffs:**
 
-- 👨‍💻 I’m currently working on an endless photo gallery project and a data sorting table project
+- 👨‍💻 I’m currently working on a data sorting table project
 - 🌱 I’m currently learning TypeScript and Node.js
 - 🚀 Looking forward to take a PHP Course 
 - ⚡ I’m looking to collaborate on an interesting and passionate projects that aimed to help people
