@@ -29,6 +29,7 @@ I am passionate of modern web development techniques and technologies. My goal i
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40" /></code>
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" /></code>
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="jest" width="40" height="40" /></code>
+  <code><img src="https://avatars.githubusercontent.com/u/49996085?s=200&v=4" alt="testing-library" width="40" height="40" /></code>
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="45" height="45" /></code>
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="webpack" width="45" height="45" /></code>
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" alt="gulp" width="50" height="50"></code>
