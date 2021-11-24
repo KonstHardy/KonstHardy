@@ -38,9 +38,11 @@ I am passionate of modern web development techniques and technologies. My goal i
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" /></code>
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain.svg" alt="jquery" width="40" height="40"></code>
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" alt="storybook" width="40" height="40"></code>
-  <code><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" /></code>
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" /></code>
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="40" height="40" /></code>
   <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal" width="40" height="40"></code>
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="45" height="45"></code>
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" /></code>
 </p>
 
 
